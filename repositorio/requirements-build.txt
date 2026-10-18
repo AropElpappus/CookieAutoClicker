@@ -1,0 +1,2 @@
+# Solo para generar el .exe; no se necesita para ejecutar el código.
+PyInstaller==6.22.3
